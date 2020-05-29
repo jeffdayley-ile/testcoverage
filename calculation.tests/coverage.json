@@ -1,0 +1,80 @@
+{
+ "C:\\Users\\jeff.dayley\\dev\\sandbox\\testcoverage\\calculation.tests\\bin\\Debug\\netcoreapp2.1\\calculation.dll": {
+  "C:\\Users\\jeff.dayley\\dev\\sandbox\\testcoverage\\calculation\\Addition.cs": {
+   "calculation.Addition": {
+    "System.Decimal calculation.Addition::Calculate()": {
+     "Lines": {
+      "17": {
+       "Hits": 3
+      },
+      "18": {
+       "Hits": 3
+      },
+      "19": {
+       "Hits": 3
+      }
+     },
+     "Branches": {
+     }
+    }
+   }
+  },
+  "C:\\Users\\jeff.dayley\\dev\\sandbox\\testcoverage\\calculation\\Division.cs": {
+   "calculation.Division": {
+    "System.Decimal calculation.Division::Calculate()": {
+     "Lines": {
+      "15": {
+       "Hits": 4
+      },
+      "16": {
+       "Hits": 4
+      },
+      "17": {
+       "Hits": 3
+      }
+     },
+     "Branches": {
+     }
+    }
+   }
+  },
+  "C:\\Users\\jeff.dayley\\dev\\sandbox\\testcoverage\\calculation\\Multiplication.cs": {
+   "calculation.Multiplication": {
+    "System.Decimal calculation.Multiplication::Calculate()": {
+     "Lines": {
+      "15": {
+       "Hits": 3
+      },
+      "16": {
+       "Hits": 3
+      },
+      "17": {
+       "Hits": 3
+      }
+     },
+     "Branches": {
+     }
+    }
+   }
+  },
+  "C:\\Users\\jeff.dayley\\dev\\sandbox\\testcoverage\\calculation\\Subtraction.cs": {
+   "calculation.Subtraction": {
+    "System.Decimal calculation.Subtraction::Calculate()": {
+     "Lines": {
+      "15": {
+       "Hits": 3
+      },
+      "16": {
+       "Hits": 3
+      },
+      "17": {
+       "Hits": 3
+      }
+     },
+     "Branches": {
+     }
+    }
+   }
+  }
+ }
+}

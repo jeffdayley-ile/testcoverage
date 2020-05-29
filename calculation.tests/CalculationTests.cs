@@ -15,7 +15,7 @@ namespace calculation.tests
             var calculation = new Addition(x, y);
             calculation.Calculate().Should().Be(result);
         }
-
+/*
         [Theory]
         [InlineData(1, 1, 0)]
         [InlineData(10, 1, 9)]
@@ -25,7 +25,7 @@ namespace calculation.tests
             var calculation = new Subtraction(x, y);
             calculation.Calculate().Should().Be(result);
         }
-
+*/
         [Theory]
         [InlineData(1, 1, 1)]
         [InlineData(10, 1, 10)]
